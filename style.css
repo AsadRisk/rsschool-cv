@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navigation-menu {
+  text-align: left;
+  width: 300px;
+  height: 120px;
+  background-color: rgba(255, 212, 103, 0.712);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+.section-card-small {
+  text-align: center;
+  width: 300px;
+  height: 30px;
+  background-color: rgb(241, 236, 132);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+.section-card-medium {
+  text-align: center;
+  width: 300px;
+  height: 60px;
+  background-color: rgb(241, 236, 132);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+
+.section-card-big {
+  text-align: center;
+  width: 300px;
+  height: 160px;
+  background-color: rgb(241, 236, 132);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+
+.section-card-special {
+  text-align: left;
+  width: 300px;
+  height: 120px;
+  background-color: rgb(241, 236, 132);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+
+.table {
+  margin: auto;
+  border: 2px solid #271166;
+  background-color: rgb(241, 236, 132);
+}
+.section-card-explain {
+  text-align: left;
+  width: 300px;
+  height: 80px;
+  background-color: rgb(202, 203, 238);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+
+.section-card-code {
+  text-align: left;
+  width: 300px;
+  height: 120px;
+  background-color: rgb(151, 152, 243);
+  color: #000;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #271166;
+  font-size: 20px;
+}
+
+.lefty {
+  text-align: left;
+}
